@@ -1,0 +1,8 @@
+total 6
+-rwxr-xr-x 1 user 197121 237 Feb 28 23:04 numbers.sh
+-rwxr-xr-x 1 user 197121  72 Feb 28 23:08 store.sh
+-rwxr-xr-x 1 user 197121 140 Feb 28 23:17 check.sh
+-rwxr-xr-x 1 user 197121 197 Feb 28 23:34 biggest.sh
+-rwxr-xr-x 1 user 197121 321 Feb 28 23:48 biggest3.sh
+-rwxr-xr-x 1 user 197121  28 Mar  1 18:46 execution.sh
+-rw-r--r-- 1 user 197121   0 Mar  1 18:47 log
